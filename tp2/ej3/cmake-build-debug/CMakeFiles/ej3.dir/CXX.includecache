@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Victoria/Downloads/algo3/tp2/ej3/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+tuple
+-
+math.h
+-
+iomanip
+-
+
